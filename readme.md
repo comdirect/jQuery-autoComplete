@@ -3,24 +3,17 @@ jQuery-autoComplete
 
 An extremely lightweight completion suggester plugin for jQuery.
 
-Compatible with jQuery 1.7.0+ in Firefox, Safari, Chrome, Opera, Internet Explorer 7+. No dependencies except the jQuery library.
-Released under the MIT License: http://www.opensource.org/licenses/mit-license.php
+This is a fork of https://github.com/Pixabay/jQuery-autoComplete and is modified for the needs of comdirect bank AG.
 
-This plugin was developed by and for [Pixabay.com](https://pixabay.com/) - an international repository for sharing free public domain images.
-We have implemented this plugin in production and we share this piece of software - in the spirit of Pixabay - freely with others.
-
-## Demo and Documentation
-
-https://goodies.pixabay.com/jquery/auto-complete/demo.html
-
-## Features
-
-* Lightweight: 3.4 kB of JavaScript - less than 1.4 kB gzipped
-* Fully flexible data source
-* Smart caching, delay and minimum character settings
-* Callbacks
 
 ## Changelog
+
+### Version 2.0.0 - 2019-05-29 FORK FOR COMDIRECT BANK
+
+* Note: Incompatible API!
+* Allow multi-select
+* Allow arbitrary content in autocomplete-fields
+* Allow mix of multi-select and arbitrary content
 
 ### Version 1.0.7 - 2015/08/15
 
